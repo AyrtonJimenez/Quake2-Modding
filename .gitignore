@@ -16,6 +16,7 @@ src/solaris
 src/unix
 src/win32
 maps
+baseq2/video
 *.obj
 *.dsw
 *.dsp
